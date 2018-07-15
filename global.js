@@ -17,6 +17,6 @@ $(document).ready(function(){
 
     $("#download").click(function(e){
         e.preventDefault();
-        $("#meme").memeGenerator("download", "marymeme.png");
+        $("#meme").memeGenerator("download", "marymeme.jpg");
     });
 });
